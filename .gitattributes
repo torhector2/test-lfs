@@ -1,2 +1,2 @@
-/PDFNet/ filter=lfs diff=lfs merge=lfs -text
+PDFNet/** filter=lfs diff=lfs merge=lfs -text
 /PDFNet/** filter=lfs diff=lfs merge=lfs -text
